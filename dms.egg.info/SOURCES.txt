@@ -1,0 +1,10 @@
+MANIFEST.in
+README.rst
+setup.cfg
+dms/__init__.py
+dms/cli.py
+dms/commands/__init__.py
+dms/commands/base.py
+dms/commands/hello.py
+tests/test_cli.py
+tests/commands/test_hello.py
