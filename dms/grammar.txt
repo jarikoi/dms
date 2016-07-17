@@ -1,0 +1,10 @@
+<dms_commands>::=<dms>
+
+
+<dms>::=dms {<list>|<get>|<git_command>}
+
+<list>::= <projects> | <assets> | <users>
+
+<get>::= 
+
+<git_command>::=all git commands
